@@ -1,6 +1,6 @@
 <a href="https://runtv.cc/" >موقع أنمي لايف</a>
 
-<div class="container">
+<div class="container" dir="rtl">
 <h2 class="paragraph-P1"><a id="a__موقع_أنمي_لايف"><span/></a>موقع أنمي لايف</h2>
 
 <p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">موقع أنمي لايف لمشاهدة مسلسلات <a href="https://runtv.cc/adventure/" >الانمي</a>  اليابانية مترجمة عربي أونلاين</span></span></p>
