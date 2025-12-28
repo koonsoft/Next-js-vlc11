@@ -2,7 +2,7 @@
 
 <h2 class="paragraph-P1"><a id="a__موقع_أنمي_لايف"><span/></a>موقع أنمي لايف</h2>
 
-<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">موقع أنمي لايف لمشاهدة مسلسلات الأنمي اليابانية مترجمة عربي أونلاين</span></span></p>
+<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">موقع أنمي لايف لمشاهدة مسلسلات <a href="https://runtv.cc/adventure/" >الانمي</a>  اليابانية مترجمة عربي أونلاين</span></span></p>
 <h3 class="paragraph-P3"><a id="a__مقدمة_عن_موقع_أنمي_لايف"><span/></a>مقدمة عن موقع أنمي لايف</h3>
 
 <p class="paragraph-P2"><span class="text-T1">يُعد موقع </span><span class="text-Strong_20_Emphasis"><span class="text-T1">أنمي لايف</span></span><span class="text-T1"> من أبرز المنصات العربية المتخصصة في عرض مسلسلات الأنمي اليابانية مترجمة إلى اللغة العربية بجودة عالية. يوفّر الموقع مكتبة ضخمة تضم أحدث وأشهر أعمال الأنمي، مع تحديثات مستمرة للحلقات فور صدورها، ليمنح عشاق الأنمي تجربة مشاهدة ممتعة وسلسة.</span></p>
